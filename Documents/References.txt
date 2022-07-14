@@ -1,0 +1,10 @@
+Gradient Descent Vietnamese
+https://www.dathoangblog.com/2018/07/gradient-descent.html
+https://machinelearningcoban.com/2017/01/12/gradientdescent/
+
+Find Saddle-point
+Vietnamese: https://tranhanhuy.wordpress.com/2011/06/10/toan-b2-tim-di%E1%BB%83m-yen-ng%E1%BB%B1a-gia-tr%E1%BB%8B-l%E1%BB%9Bn-nh%E1%BA%A5t-gia-tr%E1%BB%8B-nh%E1%BB%8F-nh%E1%BA%A5t-d%E1%BB%8Ba-ph%C6%B0%C6%A1ng/
+English: https://tutorial.math.lamar.edu/classes/calciii/relativeextrema.aspx#:~:text=a%2Cb)%20.-,If%20D%3E0%20and%20fxx(a%2Cb,to%20classify%20the%20critical%20point.
+
+Escape Saddle-point
+English: https://www.offconvex.org/2016/03/22/saddlepoints/
