@@ -1,6 +1,6 @@
 # :star: Gradient Descent and Local Minimum :star:
 ## I. Project description
-This function (matlab script) will help you find a local minimum of two variable function. The result is a local minimum that is nearest to starting point.
+This function (Matlab script) will help you find a local minimum of two variable function. The result is a local minimum that is nearest to starting point.
 ## II.How to use source code
 1. Open Matlab. ([Get 30 days free-trial](https://www.youtube.com/watch?v=DVfWATmX2nE))
 2. Add *GradientDescent.m* file to your workspace.
