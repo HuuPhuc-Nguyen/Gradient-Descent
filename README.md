@@ -2,11 +2,11 @@
 ## I. Project description
 This function (matlab script) will help you find a local minimum of two variable function. The result is a local minimum that is nearest to starting point.
 ## II.How to use source code
-1. Open Matlab.
+1. Open Matlab. ([Get 30 days free-trial](https://www.youtube.com/watch?v=DVfWATmX2nE))
 2. Add *GradientDescent.m* file to your workspace.
-3. In *command window* call the function with syntax 
-```>> GradientDescent (f,x,y)```
-. With *f* is a two variable function and (x,y) is a starting point.
+3. In *command window* call the function with syntax \
+```>> GradientDescent (f,x,y)```\
+With *f* is a two variable function and (x,y) is a starting point.
 4.  Example:
 ```
 >> syms x y
@@ -21,9 +21,9 @@ y = 0.000498460
     - Local extrema.
     - Saddle-point.
     - How to find local extrema and saddle-point of multivariable function.
+    - How to escape saddle-point.
 - Gradient Descent algorithm. 
-- Basic Matlab commands.\
-*(Suggest: You can get started with links in *References.txt*)*
+- Basic Matlab commands.
 
 ## IV. Escape saddle-point
 I use Noisy Gradient Descent idea ([here](https://www.offconvex.org/2016/03/22/saddlepoints/)) to escape the saddle-point.
